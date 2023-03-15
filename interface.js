@@ -4,7 +4,7 @@ let interfaceData=`
 <p>Movie Lander Interface is Designed by Essen Artistics and then Advertising is being handled by Proto Advertising </p>
 <p>Movie Lander is a Official Media App from E-corp Company Group and The Interface is a little Confusing to a new User But its the simplest form of Movies Interface on the Market</p>
 <h1>HOW TO USE</h1>
-<p>Movies Lander has the following Sections When the Tap Opens<br>The Newsletter <br>The Home Page<br>The Movies Catergories<br>The User Profile
+<p>Movies Lander has the following Sections When User the Tap Opens<br>The Newsletter <br>The Home Page<br>The Movies Catergories<br>The User Profile
 <br>The User Menu</p>
 <h1>The NewsLtter</h1>
 <p>The NewsLetter Sign Up Page is like the official Login Page to The App And The Emails Contacted Are Used to See the General Performance Of the App </p>
